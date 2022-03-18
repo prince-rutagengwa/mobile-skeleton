@@ -1,0 +1,99 @@
+.logo {
+ font-size: 18px;
+ font-weight: 700;
+ color: #fff;
+ margin: 0;
+    
+}
+.bar1,
+.bar2,
+.bar3 {
+  width: 18px;
+  height: 2px;
+  background-color: #fff;
+  margin: 4px 0;
+}
+.head {
+ display: flex;
+ background-color: #3c3a39;
+ height: 92px;
+ justify-content: space-between;
+}
+.primo-text {
+ width: 327px;
+ height: 124px;
+ left: 24px;
+ top: 120px;
+ font-family: 'Crete Round';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 56px;
+ line-height: 64px;
+ letter-spacing: 0.37px;
+ color: #FF6B00;
+ flex: none;
+ order: 0;
+ flex-grow: 0;
+ margin: 12px 0px;
+}
+.basic-info {
+ width: 327px;
+ height: 27px;
+ left: 24px;
+ top: 256px; 
+ font-family: 'Roboto';
+ font-style: normal;
+ font-weight: 700;
+ font-size: 24px;
+ line-height: 32px;
+ display: flex;
+ align-items: center;
+ color: #FFF5E1;
+ flex: none;
+ order: 1;
+ flex-grow: 0;
+ margin: 12px 0px;
+}
+.info {
+ width: 327px;
+ height: 123px;
+ left: 24px;
+ top: 295px;
+ font-family: 'Poppins';
+ font-style: normal;
+ font-weight: 400;
+ font-size: 16px;
+ line-height: 24px;
+ color: #FFFFFF;
+ flex: none;
+ order: 2;
+ flex-grow: 0;
+ margin: 12px 0px;
+}
+.icons {
+ display: flex;
+ align-content: flex-end;
+ padding: 100px 0px;
+ width: 375px;
+ height: 59px;
+ left: 0px;
+ top: 90px;
+ background: #1C1A19;
+ background: transparent;
+
+}
+body {
+ display: flex;
+ align-content: center;
+ flex-direction: column;
+ padding: 12px 24px;
+ width: 375px;
+ height: 590px;
+ left: 0px;
+ top: 92px;
+ background: #1C1A19;
+ background-image: url(Microverse-Student-Project-1/illustration-header-mobile.png);
+ background-repeat: no-repeat;
+ background-position: 35% 90%;
+
+}
